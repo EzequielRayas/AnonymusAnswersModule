@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'custom.css';
+
+[x-cloak] {
+    display: none;
+}
+
